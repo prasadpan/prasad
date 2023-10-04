@@ -30,5 +30,4 @@ public class OopsConcepDemo {
 		return "OopsConcepDemo [serialNum=" + serialNum + ", name=" + name + ", age=" + age + "]";
 	}
 
-
 }
